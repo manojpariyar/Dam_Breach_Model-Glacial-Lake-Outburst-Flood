@@ -11,8 +11,11 @@ Due to lack of actual data, flood hydrographs for three different scenarios are 
 The surface area of lake is obtained from digitizing the Sentinel 2 imagery. Mean depth, total volume and peak discharge are obtained from derivative equations (Empirical formula) as mentioned below:
 
 Dm = 3 * 10-5 A + 12.64 ………… equation 1
+
 V = A * Dm ……………. equation 2
+
 Qmax = 0.72 V0.53 ……………… equation 3
+
 Here, A is lake surface area, Dm is mean water depth of lake, V is volume of lake water, and Qmax is peak discharge of lake water.
 
 ## References:
