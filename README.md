@@ -1,3 +1,8 @@
+# 2D Flood Map
+https://manojpariyar.github.io/Dam_Breach_Model-Glacial-Lake-Outburst-Flood/#12/61.6784/6.8127
+# 3D Flood Map
+https://manojpariyar.github.io/3D_Flood_Map/3DFlood.html
+
 # Scenario-based Modelling of Glacial Lake Outburst Floods and their impact assessment downstream
 
 This study aims to conduct 2D dam-breach modelling in HEC RAS of a potentially dangerous glacial lake at Jostedalsbreen, Norway to assess potential impact downstream in case of outburst, basically focussing on the number of buildings and the river sections flooded above 2 meter water depth. The three different scenarios are Optimistic, Intermediate and Pessimistic which are assumed based on the three different conditions differing the volume of drained water at the lake,  flood hydrograph (flood duration, peak discharge, peak discharge time), and manning's roughness coefficient. The scenario parameters are as follows:
